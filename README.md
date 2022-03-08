@@ -4,6 +4,7 @@ Crea el directorio del proyecto
 `npm init`
 `npm install typescript --save-dev`
 
+
 En la sección scripts de package.json:
 
 ```json
